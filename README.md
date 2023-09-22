@@ -12,7 +12,7 @@
   <br>
   <H3>Frameworks & Libraries</H3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind" />
   </a>
   <H3>Tools</H3>
   <a href="https://skillicons.dev">
